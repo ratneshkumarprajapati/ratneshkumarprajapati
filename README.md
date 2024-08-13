@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ratneshkumarprajapati&label=Profile%20views&color=0e75b6&style=flat" alt="ratneshkumarprajapati" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@ratnesh14531984" target="blank"><img src="https://img.shields.io/twitter/follow/@ratnesh14531984?logo=twitter&style=for-the-badge" alt="@ratnesh14531984" /></a> </p>
+<p align="left"> <a href="https://x.com/Ratnesh_Kumar_4" target="blank"><img src="https://img.shields.io/twitter/follow/@ratnesh14531984?logo=twitter&style=for-the-badge" alt="@ratnesh14531984" /></a> </p>
 
 - 📫 How to reach me **ratneshkumarprajapati367@gmail.com**
 
